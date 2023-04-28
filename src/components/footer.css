@@ -1,0 +1,16 @@
+.footer{
+    text-align: center;
+    color: white;
+    background: rgb(47, 48, 49);
+    opacity: 80%;
+    float: bottom;
+    font-size: x-large;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50x;
+    font-weight: bold;
+    font-family:sans-serif;
+}

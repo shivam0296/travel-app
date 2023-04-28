@@ -1,0 +1,29 @@
+
+.theader{
+    padding: 10px;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(49, 49, 51);
+    text-align: center;
+}
+
+.location{
+    padding: 10px;
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(49, 49, 51);
+    font-size: large;
+    opacity: 90%;
+}
+
+.table{
+    background: rgb(218, 221, 214);
+    color: black;
+    opacity: 90%;
+}
+
+.btn{
+    margin-top: 10px;
+    vertical-align: top;
+    display: inline-block;
+}
